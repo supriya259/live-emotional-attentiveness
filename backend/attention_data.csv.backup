@@ -1,0 +1,403 @@
+Time,Attention,Emotion,Confidence,Eyes,Mouth,Blinks,Yawns,Head
+01:04:44,80,neutral,88.0,Eyes Closed,Mouth Closed,4,0,Forward
+01:04:49,92,neutral,90.0,Eyes Closed,Mouth Closed,9,0,Forward
+01:04:54,100,neutral,95.0,Eyes Open,Mouth Closed,12,0,Forward
+01:04:59,76,happy,99.0,Eyes Closed,Mouth Closed,14,1,Forward
+01:05:04,80,angry,54.0,Eyes Closed,Mouth Closed,16,1,Forward
+01:05:09,80,neutral,66.0,Eyes Closed,Mouth Closed,18,1,Forward
+01:09:14,86,neutral,92.0,Eyes Open,Mouth Closed,2,0,Forward
+01:09:19,80,neutral,64.0,Eyes Closed,Mouth Closed,2,1,Forward
+01:09:25,70,surprise,80.0,Eyes Closed,Mouth Open,3,1,Forward
+01:09:30,80,neutral,61.0,Eyes Closed,Mouth Closed,3,2,Forward
+01:09:35,80,neutral,52.0,Eyes Closed,Mouth Closed,6,2,Forward
+01:09:40,80,neutral,73.0,Eyes Closed,Mouth Closed,12,2,Forward
+01:09:45,80,neutral,72.0,Eyes Closed,Mouth Closed,15,2,Forward
+01:09:50,98,neutral,98.0,Eyes Closed,Mouth Closed,21,2,Forward
+01:09:55,94,neutral,71.0,Eyes Open,Mouth Closed,25,2,Forward
+01:10:00,82,neutral,74.0,Eyes Open,Mouth Closed,29,2,Forward
+01:10:05,80,neutral,86.0,Eyes Closed,Mouth Closed,30,2,Forward
+01:11:06,100,sad,30.0,Eyes Open,Mouth Closed,0,0,Forward
+01:11:11,100,angry,29.0,Eyes Open,Mouth Closed,1,0,Forward
+01:11:16,100,angry,26.0,Eyes Open,Mouth Closed,2,1,Forward
+01:16:50,100,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed,Attentive
+01:16:56,100,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed,Attentive
+01:17:01,100,100,angry,27,0,0,Forward,Eyes Open,Mouth Closed,Attentive
+01:17:06,0,0,happy,30,0,0,No Face,No Face,No Face,Distracted
+01:17:11,94,94,neutral,79,1,0,Forward,Eyes Open,Mouth Closed,Attentive
+01:17:16,98,98,neutral,81,1,0,Forward,Eyes Open,Mouth Closed,Attentive
+01:17:21,100,100,neutral,78,2,0,Forward,Eyes Open,Mouth Closed,Attentive
+01:17:27,100,100,neutral,82,2,0,Forward,Eyes Open,Mouth Closed,Attentive
+01:17:32,100,100,neutral,73,3,0,Forward,Eyes Open,Mouth Closed,Attentive
+01:17:37,94,94,neutral,81,5,0,Forward,Eyes Open,Mouth Closed,Attentive
+01:17:42,80,70,neutral,50,5,0,Forward,Eyes Closed,Mouth Closed,Attentive
+01:17:47,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:17:53,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:17:58,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:18:03,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:18:08,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:18:13,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:18:18,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:18:23,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:18:28,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:18:33,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:18:38,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:18:43,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:18:48,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:18:54,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:18:59,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:19:04,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:19:09,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:19:15,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:19:20,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:19:25,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:19:30,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:19:35,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:19:40,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:19:45,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:19:51,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:19:56,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:20:01,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:20:06,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:20:11,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:20:17,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:20:22,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:20:27,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:20:32,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:20:37,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:20:42,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:20:47,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:20:52,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:20:58,0,0,neutral,69,6,0,No Face,No Face,No Face,Distracted
+01:22:27,0,Unknown,0,0,0,No Face
+01:22:32,0,Unknown,0,0,0,No Face
+01:26:27,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:26:42,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:29:06,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:29:12,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:29:17,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:29:22,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:29:27,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:29:32,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:29:37,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:29:42,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:29:47,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:29:52,80,neutral,77.0,1,0,Forward,Eyes Closed,Mouth Closed,Attentive
+01:29:57,100,happy,68.0,3,0,Forward,Eyes Open,Mouth Closed,Attentive
+01:30:02,96,happy,61.0,9,1,Forward,Eyes Open,Mouth Closed,Attentive
+01:30:07,88,happy,58.0,14,1,Forward,Eyes Closed,Mouth Closed,Attentive
+01:30:12,82,neutral,82.0,18,1,Forward,Eyes Closed,Mouth Closed,Attentive
+01:30:17,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:30:22,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:30:27,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:30:32,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:30:37,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:30:42,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:30:47,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:30:52,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:30:57,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:31:02,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:31:07,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:31:12,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:31:17,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:31:22,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:31:27,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:31:32,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:31:37,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:31:42,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:31:48,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:31:53,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:31:58,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:32:03,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:32:08,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:32:13,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:32:18,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:32:23,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:32:28,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:32:33,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:32:38,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:32:43,0,neutral,82.0,19,1,No Face,No Face,No Face,Distracted
+01:33:55,0,Unknown,0.0,0,0,No Face,No Face,No Face,Distracted
+01:34:00,0,Unknown,0.0,0,0,No Face,No Face,No Face,Distracted
+01:34:05,0,Unknown,0.0,0,0,No Face,No Face,No Face,Distracted
+01:34:10,100,Unknown,0.0,0,0,Forward,Open,Closed,Attentive
+01:34:15,100,Unknown,0.0,2,0,Forward,Open,Closed,Attentive
+01:34:20,96,angry,46.0,3,1,Forward,Open,Closed,Attentive
+01:34:25,79,sad,40.0,4,1,Forward,Closed,Closed,Moderate
+01:34:30,90,sad,80.0,6,1,Forward,Open,Closed,Attentive
+01:34:35,0,sad,80.0,6,1,No Face,No Face,No Face,Distracted
+01:37:28,80,Unknown,0,0,0,Forward,Eyes Closed,Mouth Closed,Attentive
+01:37:33,80,happy,76.0,2,1,Forward,Eyes Closed,Mouth Closed,Attentive
+01:37:38,80,neutral,84.0,4,1,Forward,Eyes Closed,Mouth Closed,Attentive
+01:37:43,79,happy,95.0,4,2,Forward,Eyes Closed,Mouth Closed,Moderate
+01:37:48,70,neutral,79.0,8,2,Left,Eyes Closed,Mouth Closed,Moderate
+01:37:54,100,happy,45.0,10,2,Forward,Eyes Open,Mouth Closed,Attentive
+01:37:59,90,neutral,90.0,14,2,Forward,Eyes Open,Mouth Closed,Attentive
+01:38:04,0,neutral,81.0,15,2,No Face,No Face,No Face,Distracted
+01:42:10,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:42:15,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:42:20,0,Unknown,0,0,0,No Face,No Face,No Face,Distracted
+01:42:25,80,Unknown,0,0,0,Forward,Eyes Closed,Mouth Closed,Attentive
+01:42:30,77,neutral,65.0,3,0,Forward,Eyes Closed,Mouth Open,Moderate
+01:42:35,96,neutral,73.0,5,2,Forward,Eyes Open,Mouth Closed,Attentive
+01:42:40,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:42:45,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:42:50,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:42:55,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:43:00,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:43:05,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:43:10,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:43:15,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:43:20,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:43:25,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:43:30,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:43:35,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:43:40,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:43:45,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:43:51,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:43:56,0,neutral,80.0,9,2,No Face,No Face,No Face,Distracted
+01:45:05,0,Unknown,0,0,0,No Face,No Face,No Face
+01:45:10,0,Unknown,0,0,0,No Face,No Face,No Face
+01:45:15,0,Unknown,0,0,0,No Face,No Face,No Face
+01:45:20,0,Unknown,0,0,0,No Face,No Face,No Face
+01:45:26,80,Unknown,0,0,0,Forward,Eyes Closed,Mouth Closed
+01:45:31,94,neutral,87.0,3,0,Forward,Eyes Closed,Mouth Closed
+01:45:36,100,neutral,87.0,10,0,Forward,Eyes Open,Mouth Closed
+01:45:41,0,neutral,84.0,10,0,No Face,No Face,No Face
+01:49:05,0,Unknown,0,0,0,No Face,No Face,No Face
+01:49:10,0,Unknown,0,0,0,No Face,No Face,No Face
+01:49:15,90,Unknown,0,1,0,Forward,Eyes Open,Mouth Closed
+01:49:20,91,Unknown,0,6,0,Forward,Eyes Open,Mouth Closed
+01:49:25,94,neutral,40.0,12,0,Forward,Eyes Open,Mouth Closed
+01:49:30,80,neutral,31.0,13,0,Forward,Eyes Closed,Mouth Closed
+01:49:35,70,neutral,82.0,13,0,Forward,Eyes Closed,Mouth Open
+01:49:40,80,neutral,75.0,13,1,Forward,Eyes Closed,Mouth Closed
+01:49:45,0,neutral,50.0,15,1,No Face,No Face,No Face
+01:49:51,0,neutral,50.0,15,1,No Face,No Face,No Face
+01:52:05,0,Unknown,0,0,0,No Face,No Face,No Face
+01:52:10,80,Unknown,0,0,0,Forward,Eyes Closed,Mouth Closed
+01:52:15,85,Unknown,0,5,1,Forward,Eyes Closed,Mouth Closed
+01:52:20,84,Unknown,0,8,2,Forward,Eyes Open,Mouth Closed
+01:52:25,100,neutral,46.0,9,2,Forward,Eyes Open,Mouth Closed
+01:52:30,86,neutral,85.0,10,2,Forward,Eyes Closed,Mouth Closed
+01:52:35,96,neutral,82.0,15,2,Forward,Eyes Open,Mouth Closed
+01:55:29,80,Unknown,0.0,1,0,Forward,,
+01:55:34,89,neutral,0.82,7,1,Forward,,
+01:55:39,98,angry,0.32,14,1,Forward,,
+01:55:44,100,neutral,0.93,17,1,Forward,,
+01:55:49,81,happy,0.97,24,2,Forward,,
+01:55:55,80,neutral,0.8,29,2,Forward,,
+01:56:00,0,neutral,0.92,30,2,No Face,,
+01:56:05,0,neutral,0.92,30,2,No Face,,
+20260831_015931,01:59:36,0.0,Unknown,0.0,0,0,No Face,No Face,No Face
+20260831_015931,01:59:41,0.0,Unknown,0.0,0,0,No Face,No Face,No Face
+20260831_015931,01:59:46,82.5,neutral,0.42,1,0,Forward,Eyes Closed,Mouth Closed
+20260831_015931,01:59:51,81.2,neutral,0.42,2,0,Forward,Eyes Closed,Mouth Open
+20260831_015931,01:59:56,80.0,neutral,0.46,5,1,Forward,Eyes Closed,Mouth Closed
+20260831_015931,02:00:01,80.0,neutral,0.74,7,1,Forward,Eyes Closed,Mouth Closed
+20260831_015931,02:00:06,0.0,neutral,0.97,10,1,No Face,No Face,No Face
+20260831_015931,02:00:11,0.0,neutral,0.97,10,1,No Face,No Face,No Face
+02:05:03,0,Unknown,0,0,0,No Face,No Face,No Face
+02:05:28,0,Unknown,0,0,0,No Face,No Face,No Face
+02:05:33,80,neutral,60.0,0,0,Forward,Eyes Closed,Mouth Closed
+02:05:38,100,neutral,95.0,5,0,Forward,Eyes Open,Mouth Closed
+02:05:44,80,neutral,51.0,5,0,Forward,Eyes Closed,Mouth Closed
+02:05:49,88,neutral,89.0,9,0,Forward,Eyes Closed,Mouth Open
+02:05:54,80,happy,43.0,9,1,Forward,Eyes Closed,Mouth Closed
+02:05:59,0,happy,43.0,10,1,No Face,No Face,No Face
+02:06:04,0,happy,43.0,10,1,No Face,No Face,No Face
+02:06:09,0,happy,43.0,10,1,No Face,No Face,No Face
+02:06:15,0,happy,43.0,10,1,No Face,No Face,No Face
+02:06:20,0,happy,43.0,10,1,No Face,No Face,No Face
+02:06:25,0,happy,43.0,10,1,No Face,No Face,No Face
+07:47:47,100,happy,44.0,Eyes Open,Mouth Closed,0,0,Forward
+07:47:52,100,happy,44.0,Eyes Open,Mouth Closed,0,0,Forward
+07:47:57,100,happy,44.0,Eyes Open,Mouth Closed,1,0,Forward
+07:48:02,95,happy,44.0,Eyes Open,Mouth Closed,2,2,Forward
+07:48:07,98,happy,44.0,Eyes Open,Mouth Closed,3,2,Forward
+07:48:12,86,happy,44.0,Eyes Closed,Mouth Closed,5,2,Forward
+07:48:17,100,happy,44.0,Eyes Open,Mouth Closed,8,2,Forward
+07:52:03,80,Unknown,0,0,0,Right,Eyes Open,Mouth Closed
+07:52:08,84,Unknown,0,0,0,Forward,Eyes Closed,Mouth Closed
+07:52:13,100,Unknown,0,1,0,Forward,Eyes Open,Mouth Closed
+07:52:19,98,Unknown,0,1,0,Forward,Eyes Open,Mouth Closed
+10:02:47,80,Unknown,0.0,Eyes Open,Mouth Closed,0,0,Left
+10:02:52,80,sad,52.0,Eyes Open,Mouth Closed,0,0,Left
+10:02:57,98,angry,28.0,Eyes Open,Mouth Closed,1,0,Left
+10:03:02,80,sad,49.0,Eyes Open,Mouth Closed,1,0,Left
+10:03:07,80,sad,55.0,Eyes Open,Mouth Closed,1,0,Left
+15:46:17,94,Unknown,0.0,Eyes Open,Mouth Closed,0,0,Forward
+15:46:22,88,Unknown,0.0,Eyes Open,Mouth Closed,2,0,Forward
+15:46:27,80,sad,56.0,Eyes Open,Mouth Closed,2,0,Left
+15:46:32,74,sad,56.0,Eyes Open,Mouth Closed,3,0,Left
+15:46:37,80,sad,56.0,Eyes Open,Mouth Closed,4,0,Left
+15:46:42,0,sad,56.0,No Face,No Face,6,0,No Face
+15:46:47,92,neutral,88.0,Eyes Open,Mouth Closed,11,0,Left
+15:46:52,100,neutral,88.0,Eyes Open,Mouth Closed,12,0,Forward
+15:46:57,100,neutral,88.0,Eyes Open,Mouth Closed,12,0,Forward
+15:47:02,97,neutral,84.0,Eyes Open,Mouth Open,16,0,Forward
+15:47:07,90,neutral,94.0,Eyes Open,Mouth Closed,25,1,Forward
+15:47:12,72,neutral,93.0,Eyes Closed,Mouth Closed,32,1,Forward
+15:47:17,80,neutral,81.0,Eyes Closed,Mouth Closed,34,1,Forward
+15:47:22,94,neutral,92.0,Eyes Closed,Mouth Closed,37,1,Forward
+15:47:28,80,neutral,47.0,Eyes Closed,Mouth Closed,41,1,Forward
+15:47:33,80,happy,45.0,Eyes Closed,Mouth Closed,42,1,Forward
+15:47:38,100,neutral,95.0,Eyes Open,Mouth Closed,44,1,Forward
+15:47:43,88,neutral,74.0,Eyes Closed,Mouth Closed,47,1,Forward
+15:47:48,92,neutral,94.0,Eyes Open,Mouth Closed,61,1,Forward
+15:47:53,100,neutral,92.0,Eyes Open,Mouth Closed,64,1,Forward
+15:47:58,82,neutral,94.0,Eyes Closed,Mouth Closed,64,1,Forward
+15:48:03,100,neutral,90.0,Eyes Open,Mouth Closed,67,1,Forward
+15:48:08,82,neutral,89.0,Eyes Open,Mouth Closed,76,1,Forward
+15:48:13,94,neutral,89.0,Eyes Open,Mouth Closed,84,1,Forward
+15:48:18,80,neutral,88.0,Eyes Closed,Mouth Closed,87,1,Forward
+15:48:23,82,neutral,88.0,Eyes Closed,Mouth Closed,92,1,Forward
+15:48:28,100,neutral,88.0,Eyes Open,Mouth Closed,97,1,Forward
+15:48:33,96,neutral,80.0,Eyes Closed,Mouth Closed,98,1,Forward
+15:48:38,100,neutral,98.0,Eyes Open,Mouth Closed,99,1,Forward
+15:48:43,98,neutral,86.0,Eyes Open,Mouth Closed,99,1,Forward
+15:48:48,100,neutral,86.0,Eyes Open,Mouth Closed,99,1,Forward
+15:48:53,100,neutral,92.0,Eyes Open,Mouth Closed,99,1,Forward
+15:48:58,98,neutral,73.0,Eyes Open,Mouth Closed,101,1,Forward
+15:49:03,100,neutral,73.0,Eyes Open,Mouth Closed,101,1,Forward
+15:49:08,100,neutral,88.0,Eyes Open,Mouth Closed,101,1,Forward
+15:49:13,100,neutral,86.0,Eyes Open,Mouth Closed,101,1,Forward
+15:49:18,98,neutral,79.0,Eyes Open,Mouth Closed,101,1,Forward
+15:49:23,100,neutral,78.0,Eyes Open,Mouth Closed,101,1,Forward
+15:49:28,90,neutral,58.0,Eyes Closed,Mouth Closed,103,1,Forward
+15:49:33,96,neutral,77.0,Eyes Open,Mouth Closed,108,1,Forward
+15:49:38,100,neutral,82.0,Eyes Open,Mouth Closed,109,1,Forward
+15:49:43,82,neutral,85.0,Eyes Open,Mouth Closed,110,1,Forward
+15:49:48,80,neutral,89.0,Eyes Open,Mouth Closed,112,1,Left
+15:49:53,100,fear,59.0,Eyes Open,Mouth Closed,113,1,Forward
+15:49:58,98,neutral,95.0,Eyes Closed,Mouth Closed,113,1,Forward
+15:50:03,80,neutral,50.0,Eyes Open,Mouth Closed,114,1,Right
+15:55:58,80,Unknown,0,0,0,Forward,Eyes Closed,Mouth Closed
+15:56:20,80,Unknown,0,0,0,Forward,Eyes Closed,Mouth Closed
+15:56:25,96,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed
+15:56:32,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed
+15:56:58,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed
+15:58:03,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed
+16:17:52,80,Unknown,0,0,0,Forward,Eyes Closed,Mouth Closed
+16:17:57,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed
+16:18:03,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed
+16:20:26,100,Unknown,0.0,Eyes Open,Mouth Closed,0,0,Forward
+16:20:31,100,Unknown,0.0,Eyes Open,Mouth Closed,0,0,Forward
+16:20:36,97,Unknown,0.0,Eyes Open,Mouth Closed,0,0,Forward
+16:20:41,100,Unknown,0.0,Eyes Open,Mouth Closed,1,0,Forward
+16:20:46,100,Unknown,0.0,Eyes Open,Mouth Closed,3,0,Forward
+16:20:51,100,sad,36.0,Eyes Open,Mouth Closed,3,0,Forward
+16:20:56,100,neutral,42.0,Eyes Open,Mouth Closed,3,0,Forward
+16:21:01,100,neutral,41.0,Eyes Open,Mouth Closed,3,0,Forward
+16:21:06,100,neutral,41.0,Eyes Open,Mouth Closed,3,0,Forward
+16:21:11,0,neutral,41.0,No Face,No Face,3,0,No Face
+16:21:16,0,neutral,41.0,No Face,No Face,3,0,No Face
+16:21:21,100,neutral,41.0,Eyes Open,Mouth Closed,3,0,Forward
+16:21:26,100,neutral,41.0,Eyes Open,Mouth Closed,3,0,Forward
+16:21:31,100,neutral,41.0,Eyes Open,Mouth Closed,3,0,Forward
+16:21:36,0,neutral,41.0,No Face,No Face,5,0,No Face
+16:21:41,94,neutral,41.0,Eyes Closed,Mouth Closed,5,0,Forward
+15:26:29,0,Unknown,0.0,No Face,No Face,0,0,No Face
+15:26:34,0,Unknown,0.0,No Face,No Face,0,0,No Face
+15:26:39,0,Unknown,0.0,No Face,No Face,0,0,No Face
+15:26:44,0,sad,68.0,No Face,No Face,0,0,No Face
+15:26:49,100,neutral,37.0,Eyes Open,Mouth Closed,0,0,Forward
+15:26:54,0,happy,49.0,No Face,No Face,1,0,No Face
+15:26:59,100,happy,88.0,Eyes Open,Mouth Closed,3,0,Forward
+15:30:24,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed
+15:31:35,0,Unknown,0,0,0,No Face,No Face,No Face
+15:31:41,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed
+15:31:46,0,Unknown,0,0,0,No Face,No Face,No Face
+15:31:52,98,Unknown,0,1,0,Forward,Eyes Open,Mouth Closed
+15:38:56,100,happy,84.0,0,0,Forward,Eyes Open,Mouth Closed
+15:39:01,98,happy,84.0,1,0,Forward,Eyes Closed,Mouth Closed
+15:39:07,100,neutral,75.0,2,0,Forward,Eyes Open,Mouth Closed
+15:39:12,100,neutral,70.0,2,0,Forward,Eyes Open,Mouth Closed
+15:39:17,98,neutral,49.0,3,0,Forward,Eyes Open,Mouth Closed
+15:39:23,92,neutral,57.0,4,0,Forward,Eyes Open,Mouth Closed
+15:44:32,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed
+15:44:37,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed
+15:44:42,100,neutral,89.0,0,0,Forward,Eyes Open,Mouth Closed
+15:44:47,100,neutral,74.0,3,0,Forward,Eyes Open,Mouth Closed
+15:44:52,88,neutral,74.0,10,0,Forward,Eyes Open,Mouth Closed
+15:44:58,88,neutral,74.0,11,0,Forward,Eyes Open,Mouth Closed
+15:45:03,82,neutral,74.0,13,0,Right,Eyes Open,Mouth Closed
+15:45:08,100,neutral,74.0,13,0,Forward,Eyes Open,Mouth Closed
+15:45:13,95,happy,99.0,14,0,Forward,Eyes Open,Mouth Closed
+15:45:18,90,neutral,90.0,20,0,Forward,Eyes Open,Mouth Closed
+15:45:23,100,neutral,84.0,20,0,Forward,Eyes Open,Mouth Closed
+15:45:28,100,neutral,91.0,20,0,Forward,Eyes Open,Mouth Closed
+15:45:33,100,neutral,94.0,21,0,Forward,Eyes Open,Mouth Closed
+15:52:25,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed
+15:52:31,95,neutral,53.0,1,0,Forward,Eyes Open,Mouth Closed
+15:52:36,95,neutral,64.0,2,0,Forward,Eyes Closed,Mouth Closed
+15:52:41,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:52:46,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:52:51,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:52:56,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:53:00,0,Unknown,0,0,0,No Face,No Face,No Face
+15:53:01,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:53:06,80,fear,30.0,0,0,Left,Eyes Open,Mouth Closed
+15:53:06,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:53:11,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:53:11,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:53:16,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:53:16,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:53:21,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:53:21,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:53:26,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:53:26,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:53:31,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:53:32,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:53:36,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:53:37,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:53:41,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:53:42,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:53:46,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:53:47,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:53:51,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:53:52,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:53:56,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:53:58,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:54:02,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:54:03,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:54:08,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:54:08,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:54:14,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:54:14,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:54:19,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:54:20,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:54:25,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:54:25,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:54:30,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:54:30,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:54:36,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:54:36,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:54:41,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:54:41,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:54:46,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:54:46,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:54:51,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:54:52,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:54:56,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:54:56,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:55:01,80,happy,29.0,0,0,Left,Eyes Open,Mouth Closed
+15:55:01,100,neutral,69.0,3,0,Forward,Eyes Open,Mouth Closed
+15:59:19,80,Unknown,0,0,0,Forward,Eyes Closed,Mouth Closed
+15:59:24,100,neutral,98.0,2,0,Forward,Eyes Open,Mouth Closed
+15:59:29,95,neutral,87.0,4,0,Forward,Eyes Open,Mouth Closed
+15:59:34,100,neutral,39.0,5,0,Forward,Eyes Open,Mouth Closed
+15:59:39,80,sad,31.0,5,0,Left,Eyes Open,Mouth Closed
+15:59:44,98,neutral,83.0,5,0,Forward,Eyes Open,Mouth Closed
+15:59:49,100,neutral,76.0,5,0,Forward,Eyes Open,Mouth Closed
+15:59:54,98,neutral,92.0,6,0,Forward,Eyes Open,Mouth Closed
+15:59:59,92,neutral,73.0,8,0,Forward,Eyes Closed,Mouth Closed
+16:00:04,100,sad,51.0,12,0,Forward,Eyes Open,Mouth Closed
+16:00:09,100,neutral,82.0,12,0,Forward,Eyes Open,Mouth Closed
+16:02:00,100,sad,40.0,0,0,Forward,Eyes Open,Mouth Closed
+16:02:13,92,neutral,53.0,1,0,Forward,Eyes Open,Mouth Closed
+16:02:24,100,Unknown,0,0,0,Forward,Eyes Open,Mouth Closed
+16:02:28,95,neutral,57.0,3,0,Forward,Eyes Open,Mouth Closed
+16:02:33,100,surprise,54.0,3,0,Forward,Eyes Open,Mouth Closed
+16:02:38,95,neutral,79.0,4,0,Forward,Eyes Closed,Mouth Closed
+16:02:43,95,neutral,93.0,7,0,Forward,Eyes Closed,Mouth Closed
+16:02:48,100,happy,37.0,7,0,Forward,Eyes Open,Mouth Closed
